@@ -1,0 +1,14 @@
+.Nav__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 0.15em 1em;
+    margin: auto;
+    background-color: #aaa;
+}
+
+li {
+    display: block;
+    padding: 1em;
+}

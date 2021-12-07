@@ -1,0 +1,17 @@
+.field {
+    padding: 1em;
+    white-space: pre-line;
+}
+
+.project-description-input {
+    outline: none;
+    width: 75%;
+    height: 150px;
+    border-radius: 4px;
+}
+
+.project-title-input, .project-location-input {
+    outline: none;
+    width: 75%;
+    border-radius: 4px;
+}
